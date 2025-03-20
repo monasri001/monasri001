@@ -6,9 +6,10 @@ AI & DS Student
 
 Ambitious B.Tech student specializing in Artificial Intelligence and Data Science, with expertise in Python, Excel, Generative AI, and Robotic Process Automation. Skilled in automating workflows, developing intelligent systems, and leveraging AI technologies to optimize processes. Passionate about applying innovative solutions to real-world problems and driving efficiency in data-driven projects. Eager to collaborate with dynamic teams and contribute effectively to impactful initiatives.
 
-* 🌍  I'm based in TamilNadu
+* 🤝  I'm a pre-final year student (Artificial Inteligence and Data Science)
+* 🌍  I hails from TamilNadu
 * ✉️  You can contact me at [monasrimohandoss@gmail.com](mailto:monasrimohandoss@gmail.com)
-* 🧠  I'm learning Agentic AI
+* 🧠  I'm learning Data analysis,Agentic AI
 * 🤝  I'm open to collaborating on projects and new technologies
 
 <a href="https://www.github.com/monasri001" target="_blank" rel="noreferrer"><img
