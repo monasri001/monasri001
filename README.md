@@ -4,7 +4,7 @@ Hi 👋 My name is Monasri
 AI & DS Student
 ---------------
 
-Ambitious B.Tech student specializing in Artificial Intelligence and Data Science, with expertise in Python, Excel, Generative AI, and Robotic Process Automation. Skilled in automating workflows, developing intelligent systems, and leveraging AI technologies to optimize processes. Passionate about applying innovative solutions to real-world problems and driving efficiency in data-driven projects. Eager to collaborate with dynamic teams and contribute effectively to impactful initiatives.
+AI & Data Science enthusiast with expertise in Python, SQL, UiPath, Generative AI, and cloud technologies. Strong foundation in AI-driven automation, data engineering, and Agentic AI, with experience in deploying machine learning models on cloud platforms. Skilled in leveraging cloud-based services for scalable AI solutions, big data processing, and automation. Adept at problem-solving and collaboration, driving efficient, secure, and impactful cloud-based AI innovations.
 
 * 🤝  I'm a pre-final year student (Artificial Inteligence and Data Science)
 * 🌍  I hails from TamilNadu
