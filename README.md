@@ -1,48 +1,101 @@
-Hi 👋 My name is Monasri
-========================
+<h1 align="center">Hi 👋 I'm Monasri</h1>
+<p align="center">AI & DS Enthusiast | Cloud & Automation | Generative AI Explorer | Pre-final Year Student</p>
 
-AI & DS Student
----------------
+---
 
-AI & Data Science enthusiast with expertise in Python, SQL, UiPath, Generative AI, and cloud technologies. Strong foundation in AI-driven automation, data engineering, and Agentic AI, with experience in deploying machine learning models on cloud platforms. Skilled in leveraging cloud-based services for scalable AI solutions, big data processing, and automation. Adept at problem-solving and collaboration, driving efficient, secure, and impactful cloud-based AI innovations.
+### 🚀 About Me
 
-* 🤝  I'm a pre-final year student (Artificial Inteligence and Data Science)
-* 🌍  I hails from TamilNadu
-* ✉️  You can contact me at [monasrimohandoss@gmail.com](mailto:monasrimohandoss@gmail.com)
-* 🧠  I'm learning Data analysis,Agentic AI
-* 🤝  I'm open to collaborating on projects and new technologies
+🎓 Pre-final year student pursuing B.Tech in **Artificial Intelligence & Data Science** at CK College of Engineering and Technology.  
+🌍 Hailing from **Tamil Nadu**, India 🇮🇳  
+🧠 Passionate about AI, Data Engineering, Automation, and Cloud-based innovations.  
+📈 Currently learning **Agentic AI**, **Data Analysis**, and exploring advanced **Generative AI** models.  
+🤖 Skilled in building AI-driven automation systems and scalable ML solutions on the cloud.  
+🤝 Open to collaborating on research, projects, or internships in AI & DS.  
+📫 Reach me at: **[monasrimohandoss@gmail.com](mailto:monasrimohandoss@gmail.com)**
 
-<a href="https://www.github.com/monasri001" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/monasri001?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+---
 
-### Skills
+### 🛠️ Tech Stack
 
+**Languages & Tools:**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![UiPath](https://img.shields.io/badge/-UiPath-FE6B00?style=flat-square&logo=uipath&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a>
-</p>
+**ML / AI Frameworks:**  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
+**Web3 & Others:**  
+![MetaMask](https://img.shields.io/badge/-MetaMask-F6851B?style=flat-square&logo=metamask&logoColor=white)
+![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 
-### Socials
+---
 
-<p align="left"> <a href="https://discord.com/users/monasri" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/monasri001" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/monasrimohandoss" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com/monasrimohandoss" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/monasri001" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a> <a href="https://www.threads.net/@monasri001" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" /> </picture> </a></p>
+### 🌟 Notable Projects
 
-### Badges
+🔹 **[Solar Power Prediction – Edunet Internship](https://github.com/monasri001/SolarPowerPrediction-Edunet-Internship)**  
+→ Uses ML to forecast solar power output.  
+→ `Tech`: Python, Data Preprocessing, Regression Models  
 
-<a href="https://github.com/monasri001" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monasri001&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+🔹 **[Sentimental Analysis using BERT](https://github.com/monasri001/Sentimental-Analysis-using-BERT)**  
+→ Performs sentiment classification using the BERT model.  
+→ `Tech`: Transformers, Hugging Face, NLP  
 
-<b>Top Repositories</b>
+🔹 **[Business Plan Generator](https://github.com/monasri001/Business-Plan-Generator)**  
+→ LLM-based application for generating detailed business plans.  
+→ `Tech`: LLaMA, Prompt Engineering, LangChain  
 
-<div width="100%" align="center"><a href="https://github.com/monasri001/SolarPowerPrediction-Edunet-Internship" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=monasri001&repo=SolarPowerPrediction-Edunet-Internship&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/monasri001/Sentimental-Analysis-using-BERT" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=monasri001&repo=Sentimental-Analysis-using-BERT&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+---
 
-<br /><br /><br /><br /><br />
+### 🏅 Achievements & Contributions
 
-<div width="100%" align="center"><a href="https://github.com/monasri001/Business-Plan-Generator" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=monasri001&repo=Business-Plan-Generator&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+- 🏆 Delivered technical workshops on AI & Fire Safety Training  
+- 📜 Contributed to several real-time applications and academic research  
+- 🧪 Finalist at **HackTamizhagam Hackathon 2024**  
+- 📚 Ongoing projects in **Real-Time Threat Analysis** & **IoT-based Safety Systems**
 
-### Support Me
+---
 
-<ul style="list-style-type: none; margin: 0;">
+### 📜 Certifications
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/monasri"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+| Title | Platform |
+|-------|----------|
+| Oracle Fusion Cloud Applications CX/SCM/ERP | Oracle |
+| SQL Basics, Intermediate, Advanced | HackerRank |
+| NLP with Python | Infosys Springboard |
+| Data Science Foundations | Infosys Springboard |
 
-</ul>
+---
+
+### 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monasrimohandoss)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/monasri001)
+[![Medium](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@monasrimohandoss)
+[![X](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://www.x.com/monasri001)
+[![Threads](https://img.shields.io/badge/-Threads-000000?style=flat-square&logo=threads&logoColor=white)](https://www.threads.net/@monasri001)
+[![Discord](https://img.shields.io/badge/-monasri%231234-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/monasri)
+
+---
+
+### 📊 GitHub Stats
+
+![Monasri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=monasri001&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=monasri001&layout=compact&theme=radical)
+
+---
+
+### 💛 Support Me
+
+<a href="https://www.buymeacoffee.com/monasri"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a>
+
+---
+
+*Thanks for visiting! Let’s innovate together 💡*
