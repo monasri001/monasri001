@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Monasri</h1>
-<p align="center">AI & DS Enthusiast | Cloud & Automation | Generative AI Explorer | Pre-final Year Student</p>
+<p align="center">AI & DS Enthusiast | Cloud & Automation | Generative AI Explorer | final Year Student</p>
 
 ---
 
