@@ -5,7 +5,7 @@
 
 ### 🚀 About Me
 
-🎓 Pre-final year student pursuing B.Tech in **Artificial Intelligence & Data Science** at CK College of Engineering and Technology.  
+🎓 final year student pursuing B.Tech in **Artificial Intelligence & Data Science** at CK College of Engineering and Technology.  
 🌍 Hailing from **Tamil Nadu**, India 🇮🇳  
 🧠 Passionate about AI, Data Engineering, Automation, and Cloud-based innovations.  
 📈 Currently learning **Agentic AI**, **Data Analysis**, and exploring advanced **Generative AI** models.  
