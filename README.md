@@ -1,101 +1,126 @@
-<h1 align="center">Hi 👋 I'm Monasri</h1>
-<p align="center">AI & DS Enthusiast | Cloud & Automation | Generative AI Explorer | final Year Student</p>
+<!-- 🔥 Animated Typing Banner -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Monasri;AI+%26+Software+Developer;Agentic+AI+%7C+Automation+%7C+Gen+AI;Final+Year+AI+%26+DS+Engineer" />
+</h1>
+
+<p align="center"><b>AI & Software Developer</b> • Agentic AI & Automation • Generative AI Explorer</p>
+
+<div align="center">
+🚀 Building AI systems that <b>think, act & execute</b> — Multi-Agent AI, Automation, Cloud & Real-world ML Projects  
+📍 Tamil Nadu, India | 🎓 CK College of Engineering & Technology  
+📫 <a href="mailto:monasrimohandoss@gmail.com">monasrimohandoss@gmail.com</a>  
+<br/><br/>
+<img src="https://komarev.com/ghpvc/?username=monasri001&label=Profile+Views&color=brightgreen&style=for-the-badge" />
+</div>
 
 ---
 
-### 🚀 About Me
-
-🎓 final year student pursuing B.Tech in **Artificial Intelligence & Data Science** at CK College of Engineering and Technology.  
-🌍 Hailing from **Tamil Nadu**, India 🇮🇳  
-🧠 Passionate about AI, Data Engineering, Automation, and Cloud-based innovations.  
-📈 Currently learning **Agentic AI**, **Data Analysis**, and exploring advanced **Generative AI** models.  
-🤖 Skilled in building AI-driven automation systems and scalable ML solutions on the cloud.  
-🤝 Open to collaborating on research, projects, or internships in AI & DS.  
-📫 Reach me at: **[monasrimohandoss@gmail.com](mailto:monasrimohandoss@gmail.com)**
+## 🌟 What I'm Working On
+- 🤖 Agentic AI systems — automation & autonomous decision-making  
+- 📊 Smart dashboards + multimodal analytics tools  
+- 🧬 ML pipelines — fraud, classification, face/emotion recognition  
+- 🧭 RAG chatbots using LangChain, ChromaDB, FAISS, LLaMA  
+- 📱 AI-integrated mobile applications & IoT-based safety systems  
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack (Colorful Logos)
 
-**Languages & Tools:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![UiPath](https://img.shields.io/badge/-UiPath-FE6B00?style=flat-square&logo=uipath&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+### 👩‍💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=coffeescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-003545?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**ML / AI Frameworks:**  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+### 🧱 Backend & Frameworks
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=python&logoColor=white)
 
-**Web3 & Others:**  
-![MetaMask](https://img.shields.io/badge/-MetaMask-F6851B?style=flat-square&logo=metamask&logoColor=white)
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+### 🧬 AI / ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
----
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🌟 Notable Projects
-
-🔹 **[Solar Power Prediction – Edunet Internship](https://github.com/monasri001/SolarPowerPrediction-Edunet-Internship)**  
-→ Uses ML to forecast solar power output.  
-→ `Tech`: Python, Data Preprocessing, Regression Models  
-
-🔹 **[Sentimental Analysis using BERT](https://github.com/monasri001/Sentimental-Analysis-using-BERT)**  
-→ Performs sentiment classification using the BERT model.  
-→ `Tech`: Transformers, Hugging Face, NLP  
-
-🔹 **[Business Plan Generator](https://github.com/monasri001/Business-Plan-Generator)**  
-→ LLM-based application for generating detailed business plans.  
-→ `Tech`: LLaMA, Prompt Engineering, LangChain  
+### 🧰 Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
 
-### 🏅 Achievements & Contributions
+## 🚀 Notable Projects
 
-- 🏆 Delivered technical workshops on AI & Fire Safety Training  
-- 📜 Contributed to several real-time applications and academic research  
-- 🧪 Finalist at **HackTamizhagam Hackathon 2024**  
-- 📚 Ongoing projects in **Real-Time Threat Analysis** & **IoT-based Safety Systems**
+### 🔹 Agentic AI / Gen AI
+| Project | Link |
+|--------|------|
+| 🤖 Multi-Agent Automatic PR Review System | 🔗 https://github.com/monasri001/MultiAgent-PR-Review-System |
+| 🧾 Kasparro – Agentic Content AI | 🔗 https://github.com/monasri001/Kasparro-Agentic-Content-AI |
+| 🧑‍💻 Upwork Job Scraper Agent | 🔗 https://github.com/monasri001/Upwork-Job-Agent |
+| ☁️ Automatic Cloud Configuration Analyzer | 🔗 https://github.com/monasri001/Automated-analysis-of-cloud-server-configuration |
 
----
+### 🧬 ML & Deep Learning
+| Project | Link |
+|--------|------|
+| ☀️ Solar Power Output Prediction | 🔗 https://github.com/monasri001/SolarPowerPrediction-Edunet-Internship |
+| 🌊 Underwater Mines Prediction | 🔗 https://github.com/monasri001/Underwater-Mines-Prediction |
+| 📝 Sentiment Analysis using BERT | 🔗 https://github.com/monasri001/Sentimental-Analysis-using-BERT |
+| 💼 Job Recommendation System | 🔗 https://github.com/monasri001/Job-Recommendation-AI |
 
-### 📜 Certifications
-
-| Title | Platform |
-|-------|----------|
-| Oracle Fusion Cloud Applications CX/SCM/ERP | Oracle |
-| SQL Basics, Intermediate, Advanced | HackerRank |
-| NLP with Python | Infosys Springboard |
-| Data Science Foundations | Infosys Springboard |
-
----
-
-### 🌐 Socials
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monasrimohandoss)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/monasri001)
-[![Medium](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@monasrimohandoss)
-[![X](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://www.x.com/monasri001)
-[![Threads](https://img.shields.io/badge/-Threads-000000?style=flat-square&logo=threads&logoColor=white)](https://www.threads.net/@monasri001)
-[![Discord](https://img.shields.io/badge/-monasri%231234-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/monasri)
+### 🛠 Mini Projects (Learning-Based)
+| Project | Stack | Link |
+|--------|--------|------|
+| 📚 Book Management System | Node.js • REST API • YAML • Tests | 🔗 https://github.com/monasri001/Book-Management-System |
+| 💰 Expense Tracker (Fullstack) | FastAPI • React.js • Chart.js • MongoDB | 🔗 https://github.com/monasri001/Expense-Tracker-Fullstack |
 
 ---
 
-### 📊 GitHub Stats
-
-![Monasri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=monasri001&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=monasri001&layout=compact&theme=radical)
-
----
-
-### 💛 Support Me
-
-<a href="https://www.buymeacoffee.com/monasri"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a>
+## 📊 GitHub Stats
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=monasri001&show_icons=true&theme=radical" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monasri001&layout=compact&theme=radical" height="160" />
+<br/><br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=monasri001&theme=radical" height="160" />
+</div>
 
 ---
 
-*Thanks for visiting! Let’s innovate together 💡*
+## 🏆 Trophy Showcase
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=monasri001&theme=radical&margin-w=10&margin-h=10" />
+</p>
+
+---
+
+## 📬 Connect With Me
+<p align="center">
+<a href="mailto:monasrimohandoss@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/monasri-mohandoss"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://monasri.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/monasri001"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+---
+
+## 💛 Support Me
+
+<div align="center">
+<a href="https://www.buymeacoffee.com/monasri">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="180" />
+</a>
+</div>
+
+---
+
+<div align="center">
+💡 <i>"The future belongs to systems that execute—not just respond."</i><br>
+🚀 Always open to collaborating on AI & Automation — let's build together!
+</div>
