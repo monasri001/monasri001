@@ -17,7 +17,7 @@
 ## 🌟 What I'm Working On
 - 🤖 Agentic AI systems — automation & autonomous decision-making  
 - 📊 Smart dashboards + multimodal analytics tools  
-- 🧬 ML pipelines — fraud, classification, face/emotion recognition  
+- 🧬 ML pipelines — classification, regression, openCV
 - 🧭 RAG chatbots using LangChain, ChromaDB, FAISS, LLaMA  
 - 📱 AI-integrated mobile applications & IoT-based safety systems  
 
