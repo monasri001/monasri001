@@ -1,6 +1,6 @@
 <!-- 🔥 Animated Typing Banner -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Monasri;AI+%26" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Monasri" />
 </h1>
 
 <p align="center"><b>AI & Software Developer</b> • Agentic AI & Automation • Generative AI Explorer</p>
