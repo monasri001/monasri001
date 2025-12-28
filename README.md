@@ -1,6 +1,6 @@
 <!-- 🔥 Animated Typing Banner -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Monasri;AI+%26+Software+Developer;Agentic+AI+%7C+Automation+%7C+Gen+AI;Final+Year+AI+%26+DS+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Monasri;AI+%26" />
 </h1>
 
 <p align="center"><b>AI & Software Developer</b> • Agentic AI & Automation • Generative AI Explorer</p>
@@ -10,7 +10,6 @@
 📍 Tamil Nadu, India | 🎓 CK College of Engineering & Technology  
 📫 <a href="mailto:monasrimohandoss@gmail.com">monasrimohandoss@gmail.com</a>  
 <br/><br/>
-<img src="https://komarev.com/ghpvc/?username=monasri001&label=Profile+Views&color=brightgreen&style=for-the-badge" />
 </div>
 
 ---
@@ -60,23 +59,23 @@
 ### 🔹 Agentic AI / Gen AI
 | Project | Link |
 |--------|------|
-| 🤖 Multi-Agent Automatic PR Review System | 🔗 https://github.com/monasri001/MultiAgent-PR-Review-System |
-| 🧾 Kasparro – Agentic Content AI | 🔗 https://github.com/monasri001/Kasparro-Agentic-Content-AI |
-| 🧑‍💻 Upwork Job Scraper Agent | 🔗 https://github.com/monasri001/Upwork-Job-Agent |
-| ☁️ Automatic Cloud Configuration Analyzer | 🔗 https://github.com/monasri001/Automated-analysis-of-cloud-server-configuration |
+| 🤖 Multi-Agent Automatic PR Review System | 🔗[ https://github.com/monasri001/MultiAgent-PR-Review-System](https://github.com/monasri001/Multi-Agent-Automatic-PR-review-System) |
+| 🧾 Kasparro – Agentic Content AI | 🔗 [https://github.com/monasri001/Kasparro-Agentic-Content-AI](https://github.com/monasri001/kasparro-ai-agentic-content-generation-system-Monasri-M) |
+| 🧑‍💻 Upwork Job Scraper Agent | 🔗 [https://github.com/monasri001/Upwork-Job-Agent](https://github.com/monasri001/Upwork-Job-Scraper-Agent-using-n8n-Groq) |
+| ☁️ Automatic Cloud Configuration Analyzer | 🔗 [https://github.com/monasri001/Automated-analysis-of-cloud-server-configuration](https://github.com/monasri001/Automated-analysis-of-cloud-server-configuration) |
 
 ### 🧬 ML & Deep Learning
 | Project | Link |
 |--------|------|
-| ☀️ Solar Power Output Prediction | 🔗 https://github.com/monasri001/SolarPowerPrediction-Edunet-Internship |
-| 🌊 Underwater Mines Prediction | 🔗 https://github.com/monasri001/Underwater-Mines-Prediction |
-| 📝 Sentiment Analysis using BERT | 🔗 https://github.com/monasri001/Sentimental-Analysis-using-BERT |
-| 💼 Job Recommendation System | 🔗 https://github.com/monasri001/Job-Recommendation-AI |
+| ☀️ Solar Power Output Prediction | 🔗 [https://github.com/monasri001/SolarPowerPrediction-Edunet-Internship](https://github.com/monasri001/Solar_Power_Output_Prediction_Using_Linear_Regression) |
+| 🌊 Underwater Mines Prediction | 🔗 [https://github.com/monasri001/Underwater-Mines-Prediction](https://github.com/monasri001/underwater-mines-vs-rock-prediction-System) |
+| 📝 Sentiment Analysis using BERT | 🔗 [https://github.com/monasri001/Sentimental-Analysis-using-BERT](https://github.com/monasri001/Sentimental-Analysis-using-BERT) |
+| 💼 Job Recommendation System | 🔗 [https://github.com/monasri001/Job-Recommendation-AI](https://github.com/monasri001/AI-based-job-recommendation-System) |
 
 ### 🛠 Mini Projects (Learning-Based)
 | Project | Stack | Link |
 |--------|--------|------|
-| 📚 Book Management System | Node.js • REST API • YAML • Tests | 🔗 https://github.com/monasri001/Book-Management-System |
+| 📚 Book Management System | Node.js • REST API • YAML • Tests | 🔗 [https://github.com/monasri001/Book-Management-System](https://github.com/monasri001/book-management-system-CRUD-) |
 | 💰 Expense Tracker (Fullstack) | FastAPI • React.js • Chart.js • MongoDB | 🔗 https://github.com/monasri001/Expense-Tracker-Fullstack |
 
 ---
