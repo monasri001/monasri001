@@ -61,7 +61,7 @@
 | Project | Link |
 |--------|------|
 | 🤖 Multi-Agent Automatic PR Review System | 🔗[ https://github.com/monasri001/MultiAgent-PR-Review-System](https://github.com/monasri001/Multi-Agent-Automatic-PR-review-System) |
-| 🧑‍💻 Business plan generator | 🔗[ [https://github.com/monasri001/Business-Plan-Generator](https://github.com/monasri001/Business-Plan-Generator) |
+| 🧑‍💻 Business plan generator copilot| 🔗[ [https://github.com/monasri001/Business-Plan-Generator](https://github.com/monasri001/Business-Plan-Generator) |
 | 🧾 Kasparro – Agentic Content AI | 🔗 [https://github.com/monasri001/Kasparro-Agentic-Content-AI](https://github.com/monasri001/kasparro-ai-agentic-content-generation-system-Monasri-M) |
 | 🧑‍💻 Upwork Job Scraper Agent | 🔗 [https://github.com/monasri001/Upwork-Job-Agent](https://github.com/monasri001/Upwork-Job-Scraper-Agent-using-n8n-Groq) |
 | ☁️ Automatic Cloud Configuration Analyzer | 🔗 [https://github.com/monasri001/Automated-analysis-of-cloud-server-configuration](https://github.com/monasri001/Automated-analysis-of-cloud-server-configuration) |
