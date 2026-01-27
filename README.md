@@ -7,7 +7,7 @@
 
 <div align="center">
 🚀 Building AI systems that <b>think, act & execute</b> — Multi-Agent AI, Automation, Cloud & Real-world ML Projects  
-📍 Tamil Nadu, India | 🎓 CK College of Engineering & Technology  
+ 📍 Tamil Nadu, India | 🎓 CK College of Engineering & Technology  
 📫 <a href="mailto:monasrimohandoss@gmail.com">monasrimohandoss@gmail.com</a>  
 <br/><br/>
 </div>
