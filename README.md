@@ -15,7 +15,7 @@
 ---
 
 ## 🌟 What I'm Working On
-- 🤖 Agentic AI systems — automation & autonomous decision-making  
+- 🤖 Agentic AI systems — automation & autonomous decision-making  system
 - 📊 Smart dashboards + multimodal analytics tools  
 - 🧬 ML pipelines — classification, regression, openCV
 - 🧭 RAG chatbots using LangChain, ChromaDB, FAISS, LLaMA  
