@@ -105,6 +105,5 @@
 ---
 
 <div align="center">
-💡 <i>"The future belongs to systems that execute—not just respond."</i><br>
 🚀 Always open to collaborating on AI & Automation — let's build together!
 </div>
