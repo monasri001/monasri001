@@ -105,5 +105,5 @@
 ---
 
 <div align="center">
-🚀 Always open to collaborating on AI & Automation — let's build together!
+🚀 Always open to collaborating on AI & Automation — let's build together
 </div>
