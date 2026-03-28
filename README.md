@@ -6,6 +6,15 @@
 <p align="center"><b>AI & Software Developer</b> • Agentic AI & Automation • Generative AI Explorer</p>
 
 <div align="center">
+  <iframe 
+    src="https://my.spline.design/robotcharacterconcept-8c0a5f7c8c1e4d4f8e0c/" 
+    frameborder="0" 
+    width="100%" 
+    height="400px">
+  </iframe>
+</div>
+
+<div align="center">
 🚀 Building AI systems that <b>think, act & execute</b> — Multi-Agent AI, Automation, Cloud & Real-world ML Projects  
  📍 Tamil Nadu, India | 🎓 CK College of Engineering & Technology  
 📫 <a href="mailto:monasrimohandoss@gmail.com">monasrimohandoss@gmail.com</a>  
