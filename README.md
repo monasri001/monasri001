@@ -23,7 +23,7 @@
 
 ---
 
-## 🌟 What I'm Working On
+## 🌟 What I'm Working On.
 - 🤖 Agentic AI systems — autonomous decision-making  
 - 📊 Smart dashboards & multimodal analytics  
 - 🧬 ML pipelines — classification, regression, OpenCV  
