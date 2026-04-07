@@ -63,7 +63,7 @@
 
 ---
 
-### 🧬 ML & Deep Learning
+### 🧬 AI, ML & Deep Learning
 - ☀️ Solar Power Prediction  
 - 🌊 Underwater Mines Classification  
 - 📝 BERT Sentiment Analysis  
