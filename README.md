@@ -29,7 +29,7 @@
 - 🧬 ML pipelines — classification, regression, OpenCV  
 - 🧭 RAG chatbots (LangChain, FAISS, ChromaDB, LLaMA)  
 - 📱 AI-powered mobile & IoT safety systems  
-
+-
 ---
 
 ## 🛠️ Tech Stack  
