@@ -1,6 +1,6 @@
 <!-- 🌊 3D Animated Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A00FF&height=220&section=header&text=Monasri%20AI%20Portfolio&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A00FF&height=220&section=header&text=Monasri%20Mohandoss&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </div>
 
 <!-- 🔥 Typing Banner -->
