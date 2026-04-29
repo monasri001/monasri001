@@ -65,8 +65,8 @@
 ### 🧬 AI, ML & Deep Learning
 - ☀️ Solar Power Prediction  
 - 🌊 Underwater Mines Classification  
-- 📝 BERT Sentiment Analysis  
-- 💼 AI Job Recommendation System  
+- 📝 BERT Sentiment Analysis System
+- 💼 AI Job Recommendation System
 
 ---
 
